@@ -2,8 +2,6 @@ package main
 
 import "fmt"
 
-//var yourName string
-
 func test(name string)  {
 	fmt.Println("Hello", name)
 }
