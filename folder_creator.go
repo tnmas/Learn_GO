@@ -4,7 +4,7 @@ import ("os"; "path/filepath"; "strconv")
 
 func main() {
 	var path string
-	path = "Path name"//"/Volumes/MY HARDDISK/OST/semester9/SA/test/"
+	path = "Path name"
 	folder_creator(path)
 }
 
